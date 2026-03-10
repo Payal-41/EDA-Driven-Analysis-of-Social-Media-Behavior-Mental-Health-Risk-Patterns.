@@ -1,0 +1,2 @@
+# EDA-Driven-Analysis-of-Social-Media-Behavior-Mental-Health-Risk-Patterns.
+2:37 PM A data science project that explores how social media usage affects mental health using survey data from 481 people. It cleans and analyzes 11 mental health indicators — depression, anxiety, sleep issues, social comparison, and more — then builds a composite risk score to identify patterns across platforms, age groups, and occupations.
